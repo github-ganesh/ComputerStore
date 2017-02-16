@@ -1,0 +1,5 @@
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStore\bin\Debug\CodingTest.ComputerStore.exe.config
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStore\bin\Debug\CodingTest.ComputerStore.exe
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStore\bin\Debug\CodingTest.ComputerStore.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStore\obj\Debug\CodingTest.ComputerStore.exe
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStore\obj\Debug\CodingTest.ComputerStore.pdb

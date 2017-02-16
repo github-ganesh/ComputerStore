@@ -1,0 +1,11 @@
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\obj\Debug\CodingTest.ComputerStoreTests.csprojResolveAssemblyReference.cache
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\bin\Debug\CodingTest.ComputerStoreTests.dll
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\bin\Debug\CodingTest.ComputerStoreTests.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\bin\Debug\Castle.Core.dll
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\bin\Debug\CodingTest.ComputerStore.exe
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\bin\Debug\Moq.dll
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\bin\Debug\CodingTest.ComputerStore.pdb
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\bin\Debug\Castle.Core.xml
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\bin\Debug\Moq.xml
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\obj\Debug\CodingTest.ComputerStoreTests.dll
+C:\Users\SESA167253\Documents\Visual Studio 2013\Projects\CodingTest.ComputerStore\CodingTest.ComputerStoreTests\obj\Debug\CodingTest.ComputerStoreTests.pdb
